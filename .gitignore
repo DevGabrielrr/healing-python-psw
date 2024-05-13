@@ -1,3 +1,4 @@
-/vscode
-/venv
-/gitignore
+*.log
+vscode/
+venv/
+gitignore/
