@@ -1,5 +1,5 @@
 
-venv/*
+venv/
 *main.yml
 *config.php
-vscode/*
+vscode/
