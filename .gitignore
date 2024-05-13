@@ -1,5 +1,8 @@
 
-venv/
-*main.yml
 *config.php
-vscode/
+/vscode
+*gitignore
+env
+.venv
+env/
+venv/
