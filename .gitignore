@@ -1,4 +1,7 @@
-*.log
-vscode/
-venv/
-gitignore/
+
+*vendor/
+*main.yml
+*config.php
+/.vscode
+/venv
+node_modules/
