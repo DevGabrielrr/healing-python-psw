@@ -4,9 +4,10 @@ O projeto Healing foi concebido com o objetivo de simplificar o acesso aos cuida
 Os pacientes podem se conectar com os médicos através de videochamadas seguras e confidenciais e também os pacientes podem agendar suas consultas com especialistas da nossa clínica de maneira conveniente através da plataforma.
 As consultas podem ser marcadas de acordo com a disponibilidade dos médicos e dos pacientes.
 Os médicos têm acesso a uma interface intuitiva onde podem visualizar suas consultas agendadas.
-<hr>
+##
 
    ## Arquitetura do nosso projeto com framework Django
+
 <center>
  
 ![Imagem do projeto](templates/static/geral/img/diagrama%20fluxo.png)
@@ -27,7 +28,9 @@ Estou desenvolvendo no ambiente windows.
 
 
 ## Configurações
+````
  Python versão ^3.10
+ ````
 
 ### Para Iniciar um ambiente windows
 ````
