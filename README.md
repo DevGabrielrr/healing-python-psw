@@ -5,8 +5,11 @@ Os pacientes podem se conectar com os médicos através de videochamadas seguras
 As consultas podem ser marcadas de acordo com a disponibilidade dos médicos e dos pacientes.
 Os médicos têm acesso a uma interface intuitiva onde podem visualizar suas consultas agendadas.
 ##
+<center>
 
-   ## Arquitetura do nosso projeto com framework Django
+   ### Arquitetura do nosso projeto com framework Django
+
+</center>
 
 <center>
  
@@ -19,8 +22,7 @@ https://pythonando.com.br/
 <br>
 https://www.youtube.com/@pythonando
 
-## Após Clonar o repositório, Seguir as seguintes etapas abaixo:
-
+###  Após Clonar o repositório, Seguir as seguintes etapas abaixo:
 
 ## Preparação do ambiente
 Estou desenvolvendo no ambiente windows. 
